@@ -1,0 +1,20 @@
+.Address {
+    height: 20%;
+    padding: 15px;
+    background-color: #FFFACD;
+}
+.Address p {
+    margin: 0;
+}
+
+p {
+    line-height: 32px;
+}
+span {
+    text-transform: capitalize;
+    display: inline-block;
+    margin: 2px 6px;
+    border: 1px solid #ccc;
+    padding: 6px;
+    border-radius: 5px;
+}
